@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="131px" height="42px" viewBox="0 0 131 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Pros</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="SnellRoundhand-Black, Snell Roundhand" font-size="50" font-weight="700" letter-spacing="2.5">
+            <tspan x="423.144759" y="167">Pro</tspan>
+            <tspan x="527.844759" y="167" letter-spacing="2.08333325">s</tspan>
+        </text>
+        <filter x="-0.8%" y="-2.4%" width="101.7%" height="107.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.894117647   0 0 0 0 0.894117647   0 0 0 0 0.894117647  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="xtremeautoglass-logo" transform="translate(-424.000000, -129.000000)">
+            <g id="Pros">
+                <use stroke="#5E5D66" fill="#F5E135" fill-opacity="1" stroke-width="1" stroke-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use fill="#F5E135" fill-rule="evenodd" xlink:href="#text-1"></use>
+                <use stroke="#5E5D66" stroke-width="1" xlink:href="#text-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

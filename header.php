@@ -108,7 +108,7 @@
 							<h4 class="c-social-nav__heading">Follow Us:</h4>
 							<ul class="c-social-nav__list">
 								<li class="c-social-nav__item">
-									<a href="#" class="c-social-nav__link">
+									<a href="https://www.facebook.com/pittautoglass/" target="_blank" class="c-social-nav__link">
 										<svg class="c-icon c-social-nav__icon">
 											<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/wp-content/themes/xtremeautoglass/svg/icons.svg#facebook"></use>
 										</svg><!--end c-icon-->
@@ -117,7 +117,7 @@
 								</li>
 								<!--end c-social-nav__item-->
 								<li class="c-social-nav__item">
-									<a href="#" class="c-social-nav__link">
+									<a href="https://www.instagram.com/xtremeautoglass/" target="_blank" class="c-social-nav__link">
 										<svg class="c-icon c-social-nav__icon">
 											<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/wp-content/themes/xtremeautoglass/svg/icons.svg#instagram"></use>
 										</svg><!--end c-icon-->
@@ -126,7 +126,7 @@
 								</li>
 								<!--end c-social-nav__item-->
 								<li class="c-social-nav__item">
-									<a href="#" class="c-social-nav__link">
+									<a href="https://www.google.com/search?q=xtreme+autoglass+pros+pittsburgh" target="_blank" class="c-social-nav__link">
 										<svg class="c-icon c-social-nav__icon">
 											<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/wp-content/themes/xtremeautoglass/svg/icons.svg#google"></use>
 										</svg><!--end c-icon-->
@@ -152,7 +152,7 @@
 			</div>
 
 		</header><!-- #masthead -->
-		<div class="c-navigation-bar js-nav-target">
+		<div class="c-navigation-bar js-nav-target menu-navigation-bar">
 			<button class="c-btn c-header__nav-btn js-nav-trigger">
 			    <div class="c-btn__inner">
 			        <span class="c-btn__text js-btn-text">Menu</span>

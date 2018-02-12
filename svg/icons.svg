@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="position:absolute">
 	
+		<symbol id="caret-down" viewBox="0 0 181 90">
+			<title>Path 5</title><path d="M.02.67l21.416 12.769 67.75 76.053 71.351-76.053L180.201.669h-69.836l12.918 12.77-34.097 35.17L59.06 13.44 73.994.669z" fill-rule="evenodd"></path>
+		</symbol>
+	
 		<symbol id="facebook" viewBox="0 0 16 28">
 			<title>facebook</title><path d="M14.984.187v4.125h-2.453c-1.922 0-2.281.922-2.281 2.25v2.953h4.578l-.609 4.625H10.25v11.859H5.469V14.14H1.485V9.515h3.984V6.109C5.469 2.156 7.891 0 11.422 0c1.687 0 3.141.125 3.563.187z"></path>
 		</symbol>
