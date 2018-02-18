@@ -149,6 +149,7 @@
 				</li>
 				<!--end c-link-list__item-->
 			</ul>
+			<?php echo do_shortcode( '[contact-form-7 id="45" title="Quote Form" html_class="c-form c-form--grid"]' ); ?>
 		</div>
 	<?php endwhile; endif; ?>
 
